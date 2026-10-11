@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "shipcash",
+    "captured_at": "2026-10-11T192729",
+    "source_url": "https://shipcash.net",
+    "source_type": "Website",
+    "file": "shipcash-2026-10-11T192729.png",
+    "bytes": 80214,
+    "capture": "playwright-local"
+  }
+]
